@@ -1,0 +1,38 @@
+.bgImage1 {
+    background-image: url('../assets/Image/bgImage1.png'); /* Update with your image path */
+    background-position: center;
+    background-size: cover;
+    height: 110vh;
+  }
+
+  .bgImage22 {
+    background-image: url('../assets/Image/bgImage22.png'); /* Update with your image path */
+    background-position: center;
+    background-size: cover;
+  }
+
+  .bgImage3 {
+    background-image: url('../assets/Image/bgImage3.png'); /* Update with your image path */
+    background-position: center;
+    background-size: cover;
+  }
+
+  .bgImage4 {
+    background-image: url('../assets/Image/bgImage4.png'); /* Update with your image path */
+    background-position: center;
+    background-size: cover;
+  }
+
+  .bgImage5 {
+    background-image: url('../assets/Image/bgImage5.png'); /* Update with your image path */
+    background-position: center;
+    background-size: cover;
+    height:100vh;
+  }
+
+  .bgImageour {
+    background-image: url('../assets/Image/bgImage5.png'); /* Update with your image path */
+    background-position: center;
+    background-size: cover;
+    height:50px;
+  }

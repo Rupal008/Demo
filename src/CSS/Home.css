@@ -1,0 +1,21 @@
+
+.background-image {
+    background-image: url('../assets/Image/bgImage.png'); /* Update with your image path */
+    height: 80vh;
+    background-position: center;
+    background-size: cover;
+  }
+
+  .bgImage6 {
+    background-image: url('../assets/Image/bgImage6.png'); /* Update with your image path */
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+  }
+
+  .map {
+    background-image: url('../assets/Image/map.png'); /* Update with your image path */
+    height: 80vh;
+    background-position: center;
+    background-size: cover;
+  }
